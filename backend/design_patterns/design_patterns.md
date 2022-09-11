@@ -11,3 +11,4 @@
 Some samples:
 - [Clean Architecture Solution Template (.NET6)](https://github.com/jasontaylordev/CleanArchitecture)
 - [A starting point for Clean Architecture with ASP.NET Core](https://github.com/ardalis/CleanArchitecture)
+- [Common web application architectures (.NET)](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
